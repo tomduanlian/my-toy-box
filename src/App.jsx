@@ -1,4 +1,4 @@
-import PageHeader from './components/page-header/page-header';
+import PageHeader from './components/PageHeader/PageHeader';
 import './App.scss';
 
 function App() {

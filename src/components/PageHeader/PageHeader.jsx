@@ -1,5 +1,5 @@
 import logo from '/icon.svg';
-import './page-header.scss';
+import './PageHeader.scss';
 
 function PageHeader() {
 
