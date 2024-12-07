@@ -1,7 +1,8 @@
-import logo from '/icon.svg';
+import React, { FC } from 'react';
 import './PageHeader.scss';
+import logo from '/icon.svg';
 
-function PageHeader() {
+const PageHeader: FC = () => {
 
     return (
         <>
