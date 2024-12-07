@@ -1,14 +1,11 @@
-import logo from '/icon.svg';
+import PageHeader from './components/page-header/page-header';
 import './App.scss';
 
 function App() {
 
     return (
         <>
-            <div className="header">
-                <img src={logo} className="logo" alt="logo" />
-                <h1>Welcome to My toy boX</h1>
-            </div>
+            <PageHeader></PageHeader>
         </>
     );
 }
